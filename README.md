@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yilcu0jhhy671j22?svg=true)](https://ci.appveyor.com/project/Elena-S04/ra-hoc-aggregation)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
